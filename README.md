@@ -18,7 +18,7 @@
 
 ### Gig Economy
 - Data webscraped from Inside Airbnb
-- *Yao Shibo and Yang Yifan*
+- *Shibo Yao and Yifan Yang*
 - [link](https://drive.google.com/drive/folders/1uUxcXyEI5Sd8kzCF6nYGPxXofZt5Z3Uk?usp=sharing)
 
 ## SECONDARY DATASETS
@@ -60,7 +60,7 @@
 
 ### Gig Economy
 - Data webscraped from Inside Airbnb
-- *Jenni Bochenek webscrapped and combined files due to ram and bandwidth availabity to hand off to Yao Shibo and Yang Yifan*
+- *Jenni Bochenek webscrapped and combined files due to ram and bandwidth availabity to hand off to Shibo Yao and Yifan Yang*
 - [Colab for Webscraping from Inside Airbnb](https://colab.research.google.com/drive/1xzqiVfgRlyZM9k86g2GrAHOKKLJYVBaY?usp=sharing)
 - [Colab for Merging files from Inside Airbnb](https://colab.research.google.com/drive/11Ir_ePkndMNnKvtK4k1ITmwLTlQpLrbh?usp=sharing)
 
@@ -80,10 +80,10 @@
 
 ## COVARIANT DATASETS
 ### State Policies
-- TBA
+- TBD
 
 ### COVID Infection Rates
-- TBA
+- TBD
 
 ---
 # RESPONISIBILITY SUMMARY
@@ -93,8 +93,8 @@
 |  Employment   | Main | Joe Larson    | Joe Larson     | Joe Larson    | Joe Larson     |
 |    Housing    | Main | Jenni Bochenek| Jenni Bochenek | Jenni Bochenek| Jenni Bochenek |
 | Gig Industry  | Main | Jenni Bochenek| Jenni Bochenek/Yifan Yang/Shibo Yao | Yifan Yang/Shibo Yao| Yifan Yang/Shibo Yao |
-|    O\*NET    | Secondary | Jenni Bochenek | Jenni Bochenek | TBD | TBD |
+|    O\*NET    | Secondary | Jenni Bochenek | TBD | TBD | TBD |
 |    Healthcare    | Secondary | Jenni Bochenek | TBD | TBD | TBD |
-|    Population    | Secondary | Jenni Bochenek | TBD | TBD | TBD |
+|    Population    | Secondary | Joe Larson | TBD | TBD | TBD |
 |  State Policy | Covariate | Jenni Bochenek | Jenni Bochenek | ALL | ALL |
 | COVID-19 Infection Rates | Covariate | Shibo Yao | Shibo Yao | ALL | ALL |
