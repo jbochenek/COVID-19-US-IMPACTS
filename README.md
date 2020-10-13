@@ -20,7 +20,7 @@
 
 ### Gig Economy
 - Data webscraped from Inside Airbnb
-- *Yao Shibo and Yan Yifan*
+- *Yao Shibo and Yang Yifan*
 - [link](https://drive.google.com/drive/folders/1uUxcXyEI5Sd8kzCF6nYGPxXofZt5Z3Uk?usp=sharing)
 
 ## SECONDARY DATASETS
