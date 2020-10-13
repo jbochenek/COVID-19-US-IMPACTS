@@ -84,3 +84,11 @@
 
 ### COVID Infection Rates
 - TBA
+
+---
+# RESPONISIBILITY SUMMARY
+
+|    DATASET    | TYPE |  Acquisition  | Pre-processing |   Analysis    | Visualizations |
+| ------------- | ---- | ------------- | -------------- | ------------- | -------------- |
+|  Employment   | Main | Joe Larson    | Joe Larson     | Joe Larson    | Joe Larson     |
+|    Housing    | Main | Jenni Bochenek| Jenni Bochenek | Jenni Bochenek| Jenni Bochenek |
