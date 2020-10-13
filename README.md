@@ -86,7 +86,7 @@
 - TBD
 
 ---
-# RESPONISIBILITY SUMMARY
+# RESPONSIBILITY SUMMARY
 
 |    DATASET    | TYPE |  Acquisition  | Pre-processing |   Analysis    | Visualizations |
 | ------------- | ---- | ------------- | -------------- | ------------- | -------------- |
