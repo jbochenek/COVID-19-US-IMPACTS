@@ -92,3 +92,9 @@
 | ------------- | ---- | ------------- | -------------- | ------------- | -------------- |
 |  Employment   | Main | Joe Larson    | Joe Larson     | Joe Larson    | Joe Larson     |
 |    Housing    | Main | Jenni Bochenek| Jenni Bochenek | Jenni Bochenek| Jenni Bochenek |
+| Gig Industry  | Main | Jenni Bochenek| Jenni Bochenek/Yifan Yang/Shibo Yao | Yifan Yang/Shibo Yao| Yifan Yang/Shibo Yao |
+|    O\*NET    | Secondary | Jenni Bochenek | Jenni Bochenek | TBD | TBD |
+|    Healthcare    | Secondary | Jenni Bochenek | TBD | TBD | TBD |
+|    Population    | Secondary | Jenni Bochenek | TBD | TBD | TBD |
+|  State Policy | Covariate | Jenni Bochenek | Jenni Bochenek | ALL | ALL |
+| COVID-19 Infection Rates | Covariate | Shibo Yao | Shibo Yao | ALL | ALL |
