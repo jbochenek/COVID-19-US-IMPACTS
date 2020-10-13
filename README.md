@@ -5,9 +5,7 @@
 
 ---
 # RAW DATASETS
-
 ## MAIN DATASETS
-
 ### Employment and Unemployment
 - Files pulled from BLS.
 - *Joe Larson*
@@ -24,7 +22,6 @@
 - [link](https://drive.google.com/drive/folders/1uUxcXyEI5Sd8kzCF6nYGPxXofZt5Z3Uk?usp=sharing)
 
 ## SECONDARY DATASETS
-
 ### O\*NET 
 - [Link](https://drive.google.com/drive/folders/1oM_zdreL6KT9U784PeAH0Z-ZDWaYSoKI?usp=sharing)
 
@@ -35,7 +32,6 @@
 - [Link](https://drive.google.com/drive/folders/1pJGSVfCg-vrLQjgIcwk7N5L7KgJgO23y?usp=sharing)
 
 ## COVARIANT DATASETS
-
 ### State Policies
 - Collection of files related to state and local level policies
 - [Link](https://drive.google.com/drive/folders/1t4oifBna6v0Z6VMyP_-ZrAtPgbS7__Sd?usp=sharing)
@@ -43,3 +39,48 @@
 ### COVID Infection Rates
 - Need to grab.
 
+---
+
+# DATA ACQUISITION
+## MAIN DATASETS
+### Employment and Unemployment
+- Using a mixture of BLS API, webscraping with selenium from beta.bls.gov, and using BLS's built in datafinder.
+- *Joe Larson*
+- [Colab for Defining Employment in BLS](https://colab.research.google.com/drive/17fNM9f3VWPehbJHCtwCb7jP0d2kpoksl?usp=sharing)
+- [Colab for Defining Unemployment in BLS](https://colab.research.google.com/drive/1WGfhxWrNLSbwfizu2yVaAzuiC2zhJYeY?usp=sharing)
+- [Colab for Extracting Data](https://colab.research.google.com/drive/12rANdvd2rwA7mkIF-yKECb8rFuEvJTxt?usp=sharing)
+- [Colab for Converting Data](https://colab.research.google.com/drive/1RW4rUS9QxaAEkITVGtThxRniB3ic2c2L?usp=sharing)
+- [Colab for Merging Data](https://colab.research.google.com/drive/1RW4rUS9QxaAEkITVGtThxRniB3ic2c2L?usp=sharing)
+
+### Housing
+- Housing Insecurity from the U.S. Census' Household Pulse Survey, data downloaded directly from website and unzipped into the google drive folder
+- *Jenni Bochenek*
+- [Colab for Loading HPS Data (WIP)](https://colab.research.google.com/drive/1RW4rUS9QxaAEkITVGtThxRniB3ic2c2L?usp=sharing)
+
+
+### Gig Economy
+- Data webscraped from Inside Airbnb
+- *Jenni Bochenek webscrapped and combined files due to ram and bandwidth availabity to hand off to Yao Shibo and Yang Yifan*
+- [Colab for Webscraping from Inside Airbnb](https://colab.research.google.com/drive/1xzqiVfgRlyZM9k86g2GrAHOKKLJYVBaY?usp=sharing)
+- [Colab for Merging files from Inside Airbnb](https://colab.research.google.com/drive/11Ir_ePkndMNnKvtK4k1ITmwLTlQpLrbh?usp=sharing)
+
+
+## SECONDARY DATASETS
+### O\*NET
+- Data downloaded directly from [O\*NET website](https://www.onetcenter.org/database.html)
+- *Jenni Bochenek*
+
+### Healthcare
+- Data downloaded from Five-Thirty-Eight and data.world.
+- *Jenni Bochenek*
+
+### Population
+- Data from U.S. Census 2019 American Community Survey. JOE Anything to add on how you did it?
+- *Joe Larson*
+
+## COVARIANT DATASETS
+### State Policies
+- TBA
+
+### COVID Infection Rates
+- TBA
