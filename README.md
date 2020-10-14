@@ -1,18 +1,85 @@
 # COVID-19 US IMPACTS
 ## Capstone Project for DSCI 591, Fall 2020, team COVID-19 US Impacts.
+### Introduction
+The COVID-19 US impact team has formed to understand the impact that COVID-19 has had on employment in the United States. We are approaching this issue from several directions by examining:
+
+1. Employment and unemployment rates
+1. State policies that directly impact unemployment or underemployment
+1. Housing changes
+1. Impacts on gig economies (specifically Airbnb)
+1. COVID-19 infection rates
+
+For each of these (except the last) it is important to have data for both before the pandemic up until current time. We will also try to look at the results by sub-population, such as by race/ethnicity, gender, and locale (i.e., rural compared to metropolitan areas) to determine the different impacts across each group. The team is currently more focused on the development of the data acquisition, ETL, and analysis and less so on actual product/project creation at this phase of the effort.
+
+We will use a variety of means to obtain, analyze and display the data we will be using to present our results. Data sources include the Bureau of Labor Statistics (BLS) for employment information, O\*NET for descriptions of occupations, InsideAirbnb for Airbnb rental rates, The U.S Census Bureau Household Pulse Survey for impacts on housing, The COVID Tracking Project for COVID-19 infection rates, and more will be identified as the project continues.
+
+The team has an interest to learn how to use and follow the data science life cycle process as it pertains to COVID-19. This issue has a wide range of data availability and it is an ever developing world issue that the team can offer some understanding. In the end we are aiming to share a deeper understanding of how to ensure that data obtained is clean, usable, and analyzed following industry best practices so that the conclusions will withstand peer review, with manual modifications to the model.
+
 
 [Whole Project on Google Drive](https://drive.google.com/drive/folders/19lfxsikXBMdrO1NtgSw3vby5qSIUweOT?usp=sharing)
 
 ---
 
 # Table of Contents
+1. [Team Members](#TEAM-MEMBERS)
 1. [Datasets](#EXPLANATION-OF-DATASETS)
 1. [Acquisition](#DATA-ACQUISITION)
 1. [Pre-Processing](#DATA-PRE-PROCESSING)
 1. [Analysis](#DATA-ANALYSIS)
-1. [Vizualization] (#DATA-VISUALIZATION)
+1. [Vizualization](#DATA-VISUALIZATION)
 1. [Final Report](#FINAL-REPORT)
 1. [Responsibilities](#RESPONSIBILITY-SUMMARY)
+
+---
+# TEAM MEMBERS
+
+### Jennifer Bochenek
+- Education 
+  - B.S. in Psychology with concentrations in Psychobiology of Addiction and Clinical Psychology, and a minor in Biology from Purdue University (May 2011)
+  - M.S. in Psychology from New Mexico Highlands University, thesis topic on *Sensation Seeking and Sleep Quality: Activity as a pre-requisit for high quality sleep* (December 2012)
+- Occupation
+  - Research Associate at Educational Testing Service
+- Skills
+  - R, Python, Java, SQL, Unix
+  - SPSS, Orange, Weka, Tableau
+  - Data collection/acquisition, management and cleaning; descriptive and inferential statistics; machine learning; data visualization; paper writing
+
+
+### Yifan Yang
+- Education
+  - B.S. in Statistics and minor in Computer Science from Virginia Tech
+- Occupation
+  - Student, formerly IT for a POS company
+- Skills
+  - SQL, Unix, Java, Python, R
+  - R-Studio, Python 
+  - Descriptive, infernetial, non-parametric and other advanced statistics, machine learning, data visualization
+  
+  
+### Shibo Yao
+- Education
+  - B.S. in Software Engineering
+- Occupation
+  - Student, formerly assistant industry analyst for a consulting company
+- Skills
+  - Python, Java, R, SQL
+  - Eclipse, Pycharm, Rstudio
+  - Data acquisition, pre-processing, analysis, and interpretation
+
+### Joe Larson
+- Education
+  - Penn State
+  - Electrical Engineering 
+  - MBA
+  - Master of Expert Systems
+- Occupation
+  - Manager at a GSE
+- Skills
+  - R, Python
+  - Google Colaboratory
+  - Management
+
+For our team we have split out the research areas/topics and each team member is responsible for acquisition, cleaning, merging (if needed) of data for their topic, and analysis of said data, which all contribute to the final dataset and report. We will also be rotating who is the team facilitator for meetings on a weekly basis.
 
 ---
 
