@@ -76,6 +76,8 @@
 
 ### Population
 - Data from U.S. Census 2019 American Community Survey. JOE Anything to add on how you did it?
+- currnetly  wasjust a manual data gab using US population data at the state level 2010 to 2019, nine periods 
+- [Link to zip file](https://drive.google.com/file/d/1KZszXN_aM7Lx6jZb8Hn3MF0qVcbu5Iyh/view?usp=sharing)
 - *Joe Larson*
 
 ## COVARIANT DATASETS
@@ -95,6 +97,6 @@
 | Gig Industry  | Main | Jenni Bochenek| Jenni Bochenek/Yifan Yang/Shibo Yao | Yifan Yang/Shibo Yao| Yifan Yang/Shibo Yao |
 |    O\*NET    | Secondary | Jenni Bochenek | TBD | TBD | TBD |
 |    Healthcare    | Secondary | Jenni Bochenek | TBD | TBD | TBD |
-|    Population    | Secondary | Joe Larson | TBD | TBD | TBD |
+|    Population    | Secondary | Joe Larson | Joe Larson | Joe Larson | Joe Larson |
 |  State Policy | Covariate | Jenni Bochenek | Jenni Bochenek | ALL | ALL |
 | COVID-19 Infection Rates | Covariate | Shibo Yao | Shibo Yao | ALL | ALL |
