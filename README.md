@@ -6,13 +6,13 @@
 ---
 
 # Table of Contents
-1. [Datasets](# EXPLANATION-OF-DATASETS)
-1. [Acquisition](# DATA-ACQUISITION)
-1. [Pre-Processing](# DATA-PRE-PROCESSING)
-1. [Analysis](# DATA-ANALYSIS)
-1. [Vizualization] (# DATA-VISUALIZATION)
-1. [Final Report](# FINAL-REPORT)
-1. [Responsibilities](# RESPONSIBILITY-SUMMARY)
+1. [Datasets](#EXPLANATION-OF-DATASETS)
+1. [Acquisition](#DATA-ACQUISITION)
+1. [Pre-Processing](#DATA-PRE-PROCESSING)
+1. [Analysis](#DATA-ANALYSIS)
+1. [Vizualization] (#DATA-VISUALIZATION)
+1. [Final Report](#FINAL-REPORT)
+1. [Responsibilities](#RESPONSIBILITY-SUMMARY)
 
 ---
 
