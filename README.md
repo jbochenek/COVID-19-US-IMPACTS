@@ -68,10 +68,12 @@
 ## SECONDARY DATASETS
 ### O\*NET
 - Data downloaded directly from [O\*NET website](https://www.onetcenter.org/database.html)
+- Any link here should be to a Google colab file that either involves acquisition and/or preprocessing.
 - *Jenni Bochenek*
 
 ### Healthcare
 - Data downloaded from Five-Thirty-Eight and data.world.
+- Any link here should be to a Google colab file that either involves acquisition and/or preprocessing.
 - *Jenni Bochenek*
 
 ### Population
