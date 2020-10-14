@@ -75,9 +75,8 @@
 - *Jenni Bochenek*
 
 ### Population
-- Data from U.S. Census 2019 American Community Survey. JOE Anything to add on how you did it?
-- currnetly  wasjust a manual data gab using US population data at the state level 2010 to 2019, nine periods 
-- [Link to zip file](https://drive.google.com/file/d/1KZszXN_aM7Lx6jZb8Hn3MF0qVcbu5Iyh/view?usp=sharing)
+- Data from U.S. Census American Community Survey, which estimares US population data at the state level from 2010 to 2019.
+- Any link here should be to a Google colab file that either involves acquisition and/or preprocessing.
 - *Joe Larson*
 
 ## COVARIANT DATASETS
