@@ -4,7 +4,19 @@
 [Whole Project on Google Drive](https://drive.google.com/drive/folders/19lfxsikXBMdrO1NtgSw3vby5qSIUweOT?usp=sharing)
 
 ---
-# RAW DATASETS
+
+# Table of Contents
+1. [Datasets](# EXPLANATION OF DATASETS)
+2. [Acquisition](# DATA ACQUISITION)
+3. [Pre-Processing](# DATA PRE-PROCESSING)
+4. [Analysis](# DATA ANALYSIS)
+5. [Vizualization] (# DATA VISUALIZATION)
+6. [Final Report](# FINAL REPORT)
+7. [Responsibilities](# RESPONSIBILITY SUMMARY)
+
+---
+
+# EXPLANATION OF DATASETS
 ## MAIN DATASETS
 ### Employment and Unemployment
 - Files pulled from BLS.
@@ -89,6 +101,26 @@
 - TBD
 
 ---
+
+# DATA PRE-PROCESSING
+TBD
+
+---
+
+# DATA ANALYSIS
+TBD
+
+---
+
+# DATA VISUALIZATION
+TBD
+
+---
+# FINAL REPORT
+TBD
+
+---
+
 # RESPONSIBILITY SUMMARY
 
 |    DATASET    | TYPE |  Acquisition  | Pre-processing |   Analysis    | Visualizations |
