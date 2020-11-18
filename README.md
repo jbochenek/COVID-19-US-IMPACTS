@@ -17,7 +17,8 @@ The team has an interest to learn how to use and follow the data science life cy
 
 
 [Whole Project on Google Drive](https://drive.google.com/drive/folders/19lfxsikXBMdrO1NtgSw3vby5qSIUweOT?usp=sharing)
-
+[Instructions on Mirroring Project and Running Code]
+(https://docs.google.com/document/d/1ysa7SlRrU_gzBxPbzbzn_VbI47uG09an0JxQ1BUjOps/edit?usp=sharing)
 ---
 
 # Table of Contents
