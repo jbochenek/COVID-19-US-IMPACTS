@@ -262,4 +262,4 @@ For our team we have split out the research areas/topics and each team member is
 |    Healthcare    | Secondary | Jenni Bochenek | Dropped | Dropped | Dropped |
 |    Population    | Secondary | Joe Larson | Joe Larson | Joe Larson | Joe Larson |
 |  State Policy | Covariate | Jenni Bochenek | Jenni Bochenek | ALL | ALL |
-| COVID-19 Infection Rates | Covariate | Shibo Yao | Shibo Yao | ALL | ALL |
+| COVID-19 Infection Rates | Covariate | Yifan Yang/Joe Larson/Jenni Bochenek | Yifan Yang/Jenni Bochenek | ALL | ALL |
