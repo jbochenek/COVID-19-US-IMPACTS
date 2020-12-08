@@ -243,12 +243,11 @@ For our team we have split out the research areas/topics and each team member is
 ---
 
 # FINAL REPORTS
-
--[Launch Report](https://drive.google.com/file/d/1jqMhL2ypADD6m4IEfLykASkl2G1wZxTZ/view?usp=sharing)
--[Data Acquisition and Pre-Processing Report](https://drive.google.com/file/d/1WS3cDo3qvg6qRYuzFc8MWRphXEIM8Kjd/view?usp=sharing)
--[Pitch Presentation](https://docs.google.com/presentation/d/1ash0bdPfTi9pZOjz3wAvGsYRxmLRcIlerUIZu9XTdlU/edit?usp=sharing)
--[Exporatory Data Analysis Report](https://drive.google.com/file/d/1z_R_XEQg65ZJJy33d-LLhg4U9pqEt7S2/view?usp=sharing)
--[Final Presentation](https://docs.google.com/presentation/d/e/2PACX-1vTprfVhOA2mX2_quaBP42-FPqJ-gd46Hx8Nn2t3L0w2Gb7LThMHFaM7vRAOWQulvzLJ4rheBxJ7KCR8/pub?start=false&loop=false&delayms=60000)
+- [Launch Report](https://drive.google.com/file/d/1jqMhL2ypADD6m4IEfLykASkl2G1wZxTZ/view?usp=sharing)
+- [Data Acquisition and Pre-Processing Report](https://drive.google.com/file/d/1WS3cDo3qvg6qRYuzFc8MWRphXEIM8Kjd/view?usp=sharing)
+- [Pitch Presentation](https://docs.google.com/presentation/d/1ash0bdPfTi9pZOjz3wAvGsYRxmLRcIlerUIZu9XTdlU/edit?usp=sharing)
+- [Exporatory Data Analysis Report](https://drive.google.com/file/d/1z_R_XEQg65ZJJy33d-LLhg4U9pqEt7S2/view?usp=sharing)
+- [Final Presentation](https://docs.google.com/presentation/d/e/2PACX-1vTprfVhOA2mX2_quaBP42-FPqJ-gd46Hx8Nn2t3L0w2Gb7LThMHFaM7vRAOWQulvzLJ4rheBxJ7KCR8/pub?start=false&loop=false&delayms=60000)
 
 ---
 
